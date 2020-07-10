@@ -11,6 +11,7 @@ Para executar o jogo basta baixar o projeto e rodar na pasta onde baixar, sugiro
 
 ---------------------------------------
 ------------Documentação---------------
+
 Toda a documentação do jogo está na pasta 'Documentacao' basta baixar os pdfs. 
 ---------------------------------------
 Na primeira versao do jogo era 100% feito em console, já nesta última versão foi feito pensando em telas, ou seja nós criamos uma interface básica.
